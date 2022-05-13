@@ -10,7 +10,10 @@
 
 - ⚡ Fun fact **I am funny**
 
-- 🔭 Samples of my work
+<h3 align="left">a samples of my work</h3>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
