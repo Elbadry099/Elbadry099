@@ -12,13 +12,15 @@
 
 <h3 align="left">a Samples of my work</h3>
 <ul>
-  <li>React Projects</li>
-  
+  <li>React Projects
+    
  - <a href="https://github.com/Elbadry099/React-Restaurant-Website">React Restaurant Website</a>
-  
  - <a href="https://github.com/Elbadry099/React-Headphones-Ecommerce">React Headphones Ecommerce</a>
-  
  - <a href="https://github.com/Elbadry099/-React-Movie-Website-">React Movie Website</a>
+  
+  </li>
+  
+
 </ul>
 
 
