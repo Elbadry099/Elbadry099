@@ -1,7 +1,7 @@
-
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Elbadry</h1>
 <h3 align="center">Front-End developer- React.Js</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
+
 
 
 - 🌱 I’m currently learning **React.Js**
