@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I am funny**
 
+- 🔭 Samples of my work
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elbadry099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elbadry099" height="30" width="40" /></a>
