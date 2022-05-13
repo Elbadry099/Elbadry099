@@ -10,7 +10,10 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">a samples of my work</h3>
+<h3 align="left">a Samples of my work</h3>
+<h4 align="left">React Projects</h4>
+
+
 
 
 
