@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Elbadry</h1>
 <h3 align="center">Front-End developer- React.Js</h3>
-<img align="right" alt="Coding" width="550"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
+<img align="right" alt="Coding" width="450"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elbadry099&label=Profile%20views&color=0e75b6&style=flat" alt="elbadry099" /> </p>
 
