@@ -22,10 +22,8 @@
   
   <li>JS Projects
     
-    
-      
-      
-      
+ - <a href="https://github.com/Elbadry099/JS-small-projects-e">JS (small projects)</a>
+ 
   <li>
   
 
