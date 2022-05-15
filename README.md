@@ -12,6 +12,12 @@
 
 <h3 align="left">a Samples of my work</h3>
 <ul>
+  <li> JS Projects
+    
+ - <a href="https://github.com/Elbadry099/JS-small-projects">JS (small projects)</a>
+ 
+  </li>
+  
   <li> React Projects
     
  - <a href="https://github.com/Elbadry099/React-Restaurant-Website">React Restaurant Website</a>
@@ -19,12 +25,6 @@
  - <a href="https://github.com/Elbadry099/-React-Movie-Website-">React Movie Website</a>
  - <a href="https://github.com/Elbadry099/React-Admin-Dashboard">React Admin Dashboard</a>
   
-  </li>
-  
-  <li> JS Projects
-    
- - <a href="https://github.com/Elbadry099/JS-small-projects">JS (small projects)</a>
- 
   </li>
   
 
