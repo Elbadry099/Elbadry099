@@ -14,7 +14,7 @@
 <ul>
   <li> JS Projects
     
- - <a href="https://github.com/Elbadry099/JS-small-projects">JS Small Projects</a>
+ - <a href="[https://github.com/Elbadry099/JS-small-projects](https://github.com/Elbadry099/JS-projects)">JS Projects</a>
  - <a href="https://github.com/Elbadry099/Vanilla-JavaScript">Vanilla JavaScript</a>
  
   </li>
